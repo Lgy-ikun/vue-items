@@ -64,9 +64,8 @@ const handleLogin = async () => {
 }
 .login-container{
   background-color: rgb(255, 255, 255);
-  width: 20%;
-  height: 24%;
-  margin: auto;
+  width: 25%;
+  height: 300px;
   border: 2px solid rgb(224, 222, 230);
   border-radius: 9px;
   display: flex;
@@ -92,4 +91,5 @@ const handleLogin = async () => {
   }
   }
 }
+
 </style>
