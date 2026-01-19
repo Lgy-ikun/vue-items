@@ -13,7 +13,7 @@ import ResourcesActivityItem from './components/ResourcesActivityItem.vue';
 const activityList = ref([
   {
     image: 'https://jbinfo-ipp.oss-cn-hangzhou.aliyuncs.com/ipp-mod-hcss/zhuhaidashjfgdhJNJ3dejasda/csm/2024-06/activity/2024-06/2swSUJO1vDsJv5He.png',
-    title: '反电信网络诈骗--提高防范意识讲座',
+    title: '反电信网络诈骗--提高防范意识讲座呀',
     desc: '反电信网络诈骗--提高防范意识讲座随着网络信息的发达，网络诈骗也层出不穷，屡禁不止。特别是老年人，对资讯了解不够及时，防诈骗意识比较薄弱，今天诚邀吕律师开展一堂--反电信网络诈骗，提高防范意识的讲座，吸引了20名老年人民群众参加。此次讲座主要讲解诈骗类型和真实案例分析：让大家如何甄别是否属于诈骗行为.诈骗类型有:1冒充熟人诈骗2中奖信息诈骗3网络购物诈骗4电话欠费诈骗等.通过吕律师以各类诈骗真实案例的细致分析和大家的交流互动，大家深刻认识到电信诈骗已深入到日常生活中，平时需提高意识防范诈骗。通过这次电信网络诈骗的讲座 ，大家收益匪浅.居家养老中心将持续举办类似的知识讲座活动，为老年人提供更多更新的网络信息反馈，让每一位老年人都能多了解，多防范，避免金钱财产损失。',
     date: '2024-5-19',
     address: '荔山村居家养老服务站'
