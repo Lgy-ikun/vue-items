@@ -25,7 +25,7 @@
 
 <script setup>
 import { useAllDataStore } from '@/stores'
-import { compile, computed } from 'vue'
+import { computed } from 'vue'
 import { useRouter } from 'vue-router'
 const store = useAllDataStore()
 store.state.isCollapse = false

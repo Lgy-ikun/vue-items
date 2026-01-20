@@ -60,6 +60,7 @@ const handleLogin = async () => {
   justify-content: center;
   align-items: center;
   background-image: url("../assets/images/background.png");
+  background-image: linear-gradient(90deg, red , blue);
   background-size: 100%;
 }
 .login-container{

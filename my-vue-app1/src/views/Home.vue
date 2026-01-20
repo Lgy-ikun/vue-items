@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="login-info">
-          <p class="login-info-time">上次登录时间:<span>2025-07-03</span></p>
+          <p class="login-info-time">上次登录时间:<span>2025-07-04</span></p>
           <p class="login-info">上次登录地点:<span>肇庆</span></p>
         </div>
       </el-card>
